@@ -1,0 +1,28 @@
+Note: The only variable that you can use is x. All numerical constants should be written as decimals (e.g. 3 should be written as 3.0)
+
+how said function is read : how said function must be written
+
+Basic Functions
+x to the power of b : x ** b
+a times x : a * x
+a divided by x : a / x
+x rounded up : math.ceil(x)
+x rounded down : math.floor(x)
+absolute value of x : math.fabs(x)
+e to the x : math.exp(x)
+
+Trigonometric Functions (angles in radians)
+sin of x : math.sin(x)
+cos of x : math.cos(x)
+tan of x : math.tan(x)
+arcsin of x : math.asin(x)
+arccos of x : math.acos(x)
+arctan of x : math.atan(x)
+
+Constants
+pi : math.pi
+euler's number : math.e
+
+more functions can be found in the python math library.
+
+
